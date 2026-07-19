@@ -1,0 +1,15 @@
+age, income, student, credit-rating, buyspc
+25, high, no, fair, no
+28, high, no, excellent, no
+33, high, no, fair, yes
+44, medium, no, fair, yes
+42, low, yes, fair, yes
+45, low, yes, excellent, no
+32, low, yes, excellent, yes
+25, medium, no, fair, no
+25, low, yes, fair, no
+44, medium, yes, fair, yes
+26, medium, yes, excellent, yes
+33, medium, no, excellent, yes
+36, high, yes, fair, yes
+46, medium, no, excellent, no
